@@ -1,7 +1,3 @@
-Certainly. I will approach this as a structured, tutor-style program, assuming you already understand **React, Node.js, Express, and MongoDB**, but are **new to Next.js**. The goal is to move from fundamentals to production-ready concepts in a disciplined manner.
-
----
-
 ## What Is Next.js (In One Sentence)
 
 **Next.js is a React framework that adds routing, server-side rendering, API routes, and production optimizations out of the box.**
